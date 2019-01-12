@@ -1,0 +1,62 @@
+
+body{
+    background-color: darkblue;
+}
+.crystal{
+    height:100px;
+    width:100px;
+    border: 1px solid black;
+}
+.crystals{
+    display:flex;
+    justify-content: space-around;
+    border:1px black;
+    align-items: center;
+}
+img{
+    width:100px;
+    height:100px;
+    background-color: white;
+}
+h1{
+    background-color:lightblue;
+    width: 300px;
+    color: darkblue;
+}
+#instructions{
+    background: lightblue;
+    color: darkblue;
+    font-weight: bold;
+}
+#random_number{
+    background: lightblue;
+    width: 200px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    color: darkblue;
+}
+#win{
+    background: lightblue;
+    width: 200px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    color: darkblue;
+}
+#lose{
+    background: lightblue;
+    width: 200px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    color: darkblue;
+}
+#previous{
+    background: lightblue;
+    width: 200px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    color: darkblue;
+}
